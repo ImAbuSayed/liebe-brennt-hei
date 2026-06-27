@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Liebe brennt heiß
+
+This log tracks the cryptographic history and versioning for the song **Liebe brennt heiß** (liebe-brennt-hei).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:19:37.401031 | `v1` | `4dfc5ae187a8efcc6cbe71c663e00f413432ff5e000987e6c83131bf1d1cb8d0` | `836c2a780e308e315d349c4cc76f9c19444ac150c6a3f47befd494a6364a8cde` | `2026-06-28_liebe-brennt-hei-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
