@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir cruisen durch die Nacht, der V8 brüllt laut, yeah
+> Dein Blick im Rückspiegel, der mir den Atem raubt
+> Du bist so gefährlich, Baby, pures Adrenalin
+> Ich will nur dich spüren, lass uns einfach entflieh'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
